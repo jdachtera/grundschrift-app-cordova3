@@ -1,4 +1,6 @@
 platforms/*
+overlay/android/my-release-key.keystore
+overlay/android/ant.properties
 plugins/*
 nonfree/*
 nonfree.tar.gz

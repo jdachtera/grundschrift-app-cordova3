@@ -1,0 +1,7 @@
+platforms/*
+plugins/*
+nonfree/*
+nonfree.tar.gz
+www/*
+.idea
+
